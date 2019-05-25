@@ -1,18 +1,18 @@
 # FIFAMagic
 Uses python and firefox to control FUT webapp to automatically trade discard price FIFA players to make decent coin profit.
 
-Main file name: FifaMagic.py
-Author: HeavenlyBerserker
-Date created: 03/26/2019
+Main file name: FifaMagic.py  
+Author: HeavenlyBerserker  
+Date created: 03/26/2019  
 
 -------------
 Requirements:
 -------------
 This Python code runs using:
-	* python IDLE 3.6.5 for Windows 10
-	* selenium (from pip install as of 03/26/2019)
-	* firefox(Quantum 62.0.2 64 bit)
-	* geckodriver for firefox(from https://github.com/mozilla/geckodriver as of 03/26/2019).
+- python IDLE 3.6.5 for Windows 10  
+- selenium (from pip install as of 03/26/2019)  
+- firefox(Quantum 62.0.2 64 bit)  
+- geckodriver for firefox(from https://github.com/mozilla/geckodriver as of 03/26/2019).  
     
 The program assumes you have the above libraries and software and will error
 out if you miss something.
@@ -34,11 +34,11 @@ versions of python, firefox, selenium and geckodriver.
 Instructions:
 -------------
 Once everything is installed, you can write your code and run-test by the following:
-	- Run script(the firefox browser will open, and you will have 10 seconds to click the install button to get FUT enhancer. Make sure FUT enhancer is running)
-	- Login to your account (Do two step verification if required)
-	- Press enter on python
-	- Activate futbin integration on firefox
-	- Press enter on python
+- Run script(the firefox browser will open, and you will have 10 seconds to click the install button to get FUT enhancer. Make sure FUT enhancer is running)  
+- Login to your account (Do two step verification if required)  
+- Press enter on python  
+- Activate futbin integration on firefox  
+- Press enter on python  
     
 -----------------------
 Warning and disclaimer:
@@ -50,10 +50,10 @@ I take no reponsability for any bans or any other problems.
 -------
 Sources
 -------
-- https://automatetheboringstuff.com/chapter11/
-- https://tampermonkey.net/
-- https://github.com/Mardaneus86/futwebapp-tampermonkey
-- https://github.com/mozilla/geckodriver
+- https://automatetheboringstuff.com/chapter11/  
+- https://tampermonkey.net/  
+- https://github.com/Mardaneus86/futwebapp-tampermonkey  
+- https://github.com/mozilla/geckodriver  
 
 --------------------
 Further development:
