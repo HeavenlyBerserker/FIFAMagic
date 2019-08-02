@@ -10,7 +10,7 @@ Requirements:
 -------------
 This Python code runs using:
 - python IDLE 3.6.5 for Windows 10  
-- selenium (from pip install as of 03/26/2019)  
+- selenium (from pip3 install as of 03/26/2019)  
 - firefox(Quantum 62.0.2 64 bit)  
 - geckodriver for firefox(from https://github.com/mozilla/geckodriver as of 03/26/2019).  
     
@@ -26,7 +26,7 @@ market actions on the FIFA web app.
 --------------------------
 Installation instructions:
 --------------------------
-Install python and firefox. Pip install selenium though python. Install
+Install python and firefox. Pip3 install selenium though python. Install
 geckodriver for firefox from the github link. Preferably, use the same
 versions of python, firefox, selenium and geckodriver.
 
