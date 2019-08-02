@@ -43,7 +43,7 @@ Once everything is installed, you can write your code and run-test by the follow
 -----------------------
 Warning and disclaimer:
 -----------------------
-This code is very raw and was intended forpersonal use only. Please refrain
+This code is very raw and was intended for personal use only. Please refrain
 from any commercial use. Violate EA and FIFA guidelines at your own risk.
 I take no reponsability for any bans or any other problems.
 
