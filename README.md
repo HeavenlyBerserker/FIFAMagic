@@ -1,5 +1,5 @@
 # FIFAMagic
-Uses python and firefox to control FUT webapp to automatically trade discard price FIFA players to make decent coin profit.
+Uses python and firefox to control FUT webapp to automatically trade discard-price FIFA players to make decent coin profit.
 
 Main file name: FifaMagic.py  
 Author: HeavenlyBerserker  
